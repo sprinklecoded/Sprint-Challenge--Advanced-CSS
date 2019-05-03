@@ -1,0 +1,17 @@
+.container {
+    max-width: 880px;
+    margin: auto;
+}
+
+
+.navigation h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
